@@ -3,6 +3,7 @@
 This is the my nvim configs 
 I started with the init form kickstarted
 
+<<<<<<< HEAD
 ```bash
 mv ~/.config/nvim ~/.config/nvim.bak
 ```
@@ -13,3 +14,7 @@ mkdir ~/.config/nvim
 git clone https://github.com/cerealkiller1918/updated-nvim.git ~/.config/nvim/
 ```
 
+=======
+
+"mv ~/.config/nvim ~/.config/nvim.bak "
+>>>>>>> parent of 4505a57 (Fixed the code  part)

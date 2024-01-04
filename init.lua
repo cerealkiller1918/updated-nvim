@@ -188,7 +188,7 @@ require('lazy').setup({
       end,
     },
   },
-
+require(require('gitsigns').setup())
   {
     -- Theme inspired by Atom
     'navarasu/onedark.nvim',
